@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notifications.sozEkle">
+
+
+    <EditText
+        android:id="@+id/sozYazi"
+        android:layout_width="297dp"
+        android:layout_height="187dp"
+        android:layout_marginTop="64dp"
+
+        android:gravity="top"
+
+        android:hint="Beğendiğiniz Sözü Ekleyin..."
+        android:inputType="textMultiLine"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/sozYazar"
+        android:layout_width="299dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="30dp"
+
+        android:hint="Yazar ismi..."
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sozYazi" />
+
+
+    <Button
+        android:id="@+id/ekleSoz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="SÖZÜ EKLE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sozYazar" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

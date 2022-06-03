@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/detay3.xml" value="0.1135" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/ic_baseline_local_library_24.xml" value="0.1135" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_kitap_ekle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_okunan_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_oneri_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_oneri_duzenle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_oyver.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_soz_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_soz_duzenle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_soz_ekle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/activity_tab_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/fragment_notifications.xml" value="0.3048211508553655" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/fragment_tab_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/grid_item_kitap.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/layout/pop_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/menu/popup_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/menu/popup_menu_okunan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/emre_/Desktop/deneme/app/src/main/res/menu/toolbar_notifications.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
